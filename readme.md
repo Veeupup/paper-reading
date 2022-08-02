@@ -4,6 +4,12 @@
 
 之后要每次读完可以加上简单的介绍总结或者一些参考资料, 主要目的是建立自己的 paper list 以及 track 自己的学习路径。
 
+# Systems
+
+- [x] 《DDIA》
+- [ ] 《Streaming System》
+- [ ] 《Fault-Tolerant Message-Passing Distributed Systems》
+
 # database
 
 ## architecture
